@@ -4,7 +4,7 @@ from codecs import open
 
 requires = [
     'requests <3.0, >=2.18.0',
-    'urllib3 <2.0, >=1.22',
+    'urllib3 <3.0, >=2.0.7',
     'netifaces>=0.10.5',
 ]
 
